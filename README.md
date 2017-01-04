@@ -14,4 +14,4 @@ File | Description
 --- | ---
 StatisticsTheScienceofDecisionsProjectInstructions.pdf | Statistics project report
 stroopdata.csv.xlsx | data set
-t-table.jpg | data set
+t-table.jpg | used T-Table
